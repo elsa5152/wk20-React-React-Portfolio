@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/elsa5152/wk20-React-React-Portfoliostatic/css/main.d5b23da9.chunk.css",
-    "main.js": "/elsa5152/wk20-React-React-Portfoliostatic/js/main.a8af5952.chunk.js",
-    "main.js.map": "/elsa5152/wk20-React-React-Portfoliostatic/js/main.a8af5952.chunk.js.map",
-    "runtime-main.js": "/elsa5152/wk20-React-React-Portfoliostatic/js/runtime-main.d31be1b2.js",
-    "runtime-main.js.map": "/elsa5152/wk20-React-React-Portfoliostatic/js/runtime-main.d31be1b2.js.map",
-    "static/css/2.8b3621c5.chunk.css": "/elsa5152/wk20-React-React-Portfoliostatic/css/2.8b3621c5.chunk.css",
-    "static/js/2.bb8957c3.chunk.js": "/elsa5152/wk20-React-React-Portfoliostatic/js/2.bb8957c3.chunk.js",
-    "static/js/2.bb8957c3.chunk.js.map": "/elsa5152/wk20-React-React-Portfoliostatic/js/2.bb8957c3.chunk.js.map",
-    "index.html": "/elsa5152/wk20-React-React-Portfolioindex.html",
-    "static/css/2.8b3621c5.chunk.css.map": "/elsa5152/wk20-React-React-Portfoliostatic/css/2.8b3621c5.chunk.css.map",
-    "static/css/main.d5b23da9.chunk.css.map": "/elsa5152/wk20-React-React-Portfoliostatic/css/main.d5b23da9.chunk.css.map",
-    "static/js/2.bb8957c3.chunk.js.LICENSE.txt": "/elsa5152/wk20-React-React-Portfoliostatic/js/2.bb8957c3.chunk.js.LICENSE.txt",
-    "static/media/bootstrap.min.css": "/elsa5152/wk20-React-React-Portfoliostatic/media/glyphicons-halflings-regular.be810be3.woff2"
+    "main.css": "./static/css/main.d5b23da9.chunk.css",
+    "main.js": "./static/js/main.a8af5952.chunk.js",
+    "main.js.map": "./static/js/main.a8af5952.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.df72ae3d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.df72ae3d.js.map",
+    "static/css/2.a8488cf6.chunk.css": "./static/css/2.a8488cf6.chunk.css",
+    "static/js/2.bb8957c3.chunk.js": "./static/js/2.bb8957c3.chunk.js",
+    "static/js/2.bb8957c3.chunk.js.map": "./static/js/2.bb8957c3.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.a8488cf6.chunk.css.map": "./static/css/2.a8488cf6.chunk.css.map",
+    "static/css/main.d5b23da9.chunk.css.map": "./static/css/main.d5b23da9.chunk.css.map",
+    "static/js/2.bb8957c3.chunk.js.LICENSE.txt": "./static/js/2.bb8957c3.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "./static/media/glyphicons-halflings-regular.be810be3.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.d31be1b2.js",
-    "static/css/2.8b3621c5.chunk.css",
+    "static/js/runtime-main.df72ae3d.js",
+    "static/css/2.a8488cf6.chunk.css",
     "static/js/2.bb8957c3.chunk.js",
     "static/css/main.d5b23da9.chunk.css",
     "static/js/main.a8af5952.chunk.js"
