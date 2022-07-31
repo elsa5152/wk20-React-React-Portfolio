@@ -6,8 +6,7 @@ function Learn() {
         <div className="contact-card">
             <div className="card">
             <h1 className="text-center">Resume</h1>
-            <a href=""><h1 className="text-center mt-2">View Here</h1></a>
-            <a href="/src/assets/resumedemo.pdf" download>Resume</a>
+            <a href="./src/assets/resumedemo.pdf" download>Free download</a>
             </div>
 
         </div>
