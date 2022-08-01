@@ -34,4 +34,4 @@ npm start
 
 ## Heroku Link
 
-[wk19-Text-Editor](https://wk19-text-editor.herokuapp.com/)
+[React-Portfolio](https://wk19-text-editor.herokuapp.com/)
