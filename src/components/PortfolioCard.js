@@ -5,7 +5,7 @@ function PortfolioCard(props) {
         <div className="card port-card">
             <div className="img-container">
 
-                <img alt={props.name} src={props.image} />
+            
             </div>
             <div className="content">
                 <ul>

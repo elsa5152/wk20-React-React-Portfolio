@@ -3,7 +3,7 @@ import HomeCard from '../HomeCard'
 
 function Home() {
     return (
-      <div>
+      <div className="Home">
   
         <HomeCard />
   

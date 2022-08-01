@@ -1,8 +1,9 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link} from "react-router-dom";
 
 function NavTabs() {
     return (
+      
         <div className="container-nav">
       <ul className="nav nav-tabs">
         <li className="nav-item">
