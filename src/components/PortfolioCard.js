@@ -3,10 +3,7 @@ import React from "react";
 function PortfolioCard(props) {
     return (
         <div className="card port-card">
-            <div className="img-container">
-
             
-            </div>
             <div className="content">
                 <ul>
                     <li>
@@ -14,6 +11,9 @@ function PortfolioCard(props) {
                     </li>
                     <li>
                         <strong>Project:</strong> {props.project}
+                    </li>
+                    <li>
+                        <strong>App:</strong> {props.location}
                     </li>
 
                 </ul>

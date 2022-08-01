@@ -6,7 +6,8 @@ import Contact from "./components/pages/Contact";
 import NavTabs from "./components/NavTabs";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import { BrowserRouter as Router, Routes } from "react-router-dom";
+import Resume from "./components/pages/Resume";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
 function App() {
     return (
@@ -14,10 +15,14 @@ function App() {
         <div>
           <Header />
           <NavTabs />
-          <Routes exact path="/" component={Home} />
-          <Routes exact path="/about" component={About} />
-          <Routes exact path="/blog" component={Blog} />
-          <Routes path="/contact" component={Contact} />
+          <Routes>
+          <Route exact path="/" element={<Home/>}/>
+          <Route exact path="/about" element={<About />} />
+          <Route exact path="/blog" element={<Blog />} />
+          <Route exact path="/contact" element={<Contact />} />
+          <Route exact path="/resume" element={<Resume />} />
+          
+          </Routes>
           <Footer />
         </div>
       </Router>

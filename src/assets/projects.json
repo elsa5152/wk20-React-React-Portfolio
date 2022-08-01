@@ -2,11 +2,13 @@
     {
         "id": 1,
         "name": "Day Planner",
+        "project": "Local storage",
         "location": " https://elsa5152.github.io/week5homework/"
     },
     {
         "id": 2,
         "name": "Note Taker",
+        "project": "Local storage",
         "location": "https://note-taker-123456.herokuapp.com"
     }
 

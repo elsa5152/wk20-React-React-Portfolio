@@ -5,8 +5,9 @@ function ContactCard(props) {
         <div className="contact-card">
             <div className="card">
             <h1 className="text-center">Contact Me</h1>
-            <div className="card-content">
+            <div className="card-content container">
                 <a href="https://github.com/elsa5152/wk20-React-React-Portfolio.git" className="">GitHub</a>
+                <br></br>
                 <a href="https://github.com/elsa5152/wk20-React-React-Portfolio.git" className="">Email</a>
             </div>
 
